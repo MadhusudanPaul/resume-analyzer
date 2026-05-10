@@ -280,13 +280,11 @@ MIT — free to use, modify, and deploy.
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Google Gemini API](https://ai.google.dev/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Hot Toast](https://react-hot-toast.com/)
 
----
 
-Made with ❤️ for developers who want to land their dream job.
